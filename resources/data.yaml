@@ -1,0 +1,5 @@
+main:
+  page: "https://www.saucedemo.com/"
+  id: "#user-name"
+  pass: "#password"
+  btn: "#login-button"
